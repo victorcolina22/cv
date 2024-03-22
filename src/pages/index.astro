@@ -1,0 +1,21 @@
+---
+import Layout from "@/layouts/Layout.astro";
+
+import AboutMe from "@/components/AboutMe.astro";
+import Education from "@/components/Education.astro";
+import Experience from "@/components/Experience.astro";
+import Hero from "@/components/Hero.astro";
+import Skills from "@/components/Skills.astro";
+---
+
+<Layout title="Welcome to Astro.">
+  <main
+    class="max-w-2xl mx-auto w-full md:py-20 p-5 md:p-0 print:py-0 print:px-0"
+  >
+    <Hero />
+    <AboutMe />
+    <Experience />
+    <Education />
+    <Skills />
+  </main>
+</Layout>

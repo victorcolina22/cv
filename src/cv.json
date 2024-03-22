@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Isaac Daniel Leon Silva",
+    "label": "Me considero una persona proactiva y responsable, con una capacidad natural para adaptarme rápidamente a diferentes situaciones y entornos laborales. Mi habilidad para trabajar en equipo se basa en la comunicación efectiva y la colaboración activa, siempre orientada hacia el logro de objetivos comunes. Estoy comprometido con el crecimiento personal y profesional, buscando constantemente nuevas oportunidades para aprender y mejorar.",
+    "image": "/me.webp",
+    "email": "victorcolina2202@gmail.com",
+    "phone": "+56 9 6547 9260",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Santiago",
+      "countryCode": "ES",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "Gmail",
+        "username": "victorcolina22",
+        "url": "https://www.linkedin.com/in/victorcolina22"
+      },
+      {
+        "network": "GitHub",
+        "username": "victorcolina22",
+        "url": "https://github.com/victorcolina22"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Oliva Restaurant",
+      "position": "",
+      "url": "",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "Durante mi tiempo en Oliva Restaurant, adquirí experiencia integral en la preparación de alimentos y atención al cliente. Desde la organización del mise en place hasta la gestión de cuartos caliente y frío, así como la preparación de batidos, desarrollé habilidades sólidas en la cocina y servicio. Además, desempeñé funciones como garzón, demostrando mi capacidad para ofrecer un excelente servicio en un entorno de alta demanda.",
+      "highlights": []
+    },
+    {
+      "name": "Cow Gourmet",
+      "position": "",
+      "url": "",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "En Cow Gourmet, participé en la elaboración de cortes básicos y gourmet, así como en técnicas de desposte. A través de una atención al cliente de calidad.",
+      "highlights": [""]
+    },
+    {
+      "name": "Ganadera Don Matías",
+      "position": "",
+      "url": "",
+      "startDate": "2018",
+      "endDate": "2021",
+      "summary": "En Ganadera Don Matías, me especialicé en todos los aspectos de la carnicería, brindando una buena atención al cliente.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Cecinas San Jorge",
+      "position": "",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "En Cecinas San Jorge, desempeñé el rol de operario de producción, contribuyendo activamente al proceso de fabricación.",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Por definir",
+      "url": "",
+      "area": "Por definir",
+      "studyType": "Bachelor",
+      "startDate": "??",
+      "endDate": "??",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Proactivo",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Responsable",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "Comunicador",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Conversational level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ]
+}

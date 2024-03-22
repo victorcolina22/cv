@@ -1,0 +1,25 @@
+---
+import cv from "@/cv.json";
+
+const { work } = cv;
+---
+
+<section class="mt-12">
+  <h2 class="text-2xl font-bold">Experiencia</h2>
+
+  <ul class="mt-3">
+    {
+      work.map(({ name, startDate, endDate, summary }) => (
+        <li class="mt-5">
+          <div class="flex items-center justify-between mb-1">
+            <p class="font-bold text-[#000]">{name}</p>
+            <p>
+              {startDate} - {endDate}
+            </p>
+          </div>
+          <p>{summary}</p>
+        </li>
+      ))
+    }
+  </ul>
+</section>
