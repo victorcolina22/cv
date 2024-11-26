@@ -1,16 +1,16 @@
 ---
-import cv from "@/cv.json";
+import cv from '@/cv.json';
 
 const { skills } = cv;
 ---
 
-<section class="mt-12">
-  <h2 class="text-2xl font-bold">Habilidades</h2>
+<section class='mt-12'>
+  <h2 class='text-2xl font-bold'>Habilidades</h2>
 
-  <ul class="mt-3 flex items-center gap-2">
+  <ul class='mt-3 flex flex-wrap items-center gap-2'>
     {
       skills.map(({ name }) => (
-        <li class="bg-[#eee] px-3 rounded-lg">{name}</li>
+        <li class='bg-[#eee] px-3 rounded-lg'>{name}</li>
       ))
     }
   </ul>
