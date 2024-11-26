@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Isaac Daniel Leon Silva",
-    "label": "Soy una persona proactiva y responsable, con una capacidad natural para adaptarme rápidamente a diferentes situaciones y entornos laborales. Mi habilidad para trabajar en equipo se basa en la comunicación efectiva y la colaboración activa, siempre orientada hacia el logro de objetivos comunes. Estoy comprometido con el crecimiento personal y profesional, buscando constantemente nuevas oportunidades para aprender y mejorar.",
+    "name": "Victor Alfonzo Colina Leon",
+    "label": "Soy desarrollador frontend con experiencia en la creación de aplicaciones web funcionales y escalables. He trabajado en proyectos de retail y gestión, siempre con enfoque en trabajo en equipo y objetivos claros. Me destaco por ser proactivo, responsable y en constante aprendizaje para mejorar mis habilidades.",
     "image": "/me.webp",
     "email": "victorcolina2202@gmail.com",
-    "phone": "+56 9 6547 9260",
+    "phone": "+56 9 3649 4019",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -27,50 +27,84 @@
   },
   "work": [
     {
-      "name": "Oliva Restaurant",
-      "position": "",
+      "name": "Amaris Consulting - Vida Cámara",
+      "position": "Desarrollador Full Stack",
+      "address": "Santiago, Chile",
       "url": "",
-      "startDate": "2015",
-      "endDate": "2016",
-      "summary": "Durante mi tiempo en Oliva Restaurant, adquirí experiencia integral en la preparación de alimentos y atención al cliente. Desde la organización del mise en place hasta la gestión de cuartos caliente y frío, así como la preparación de batidos, desarrollé habilidades sólidas en la cocina y servicio. Además, desempeñé funciones como garzón, demostrando mi capacidad para ofrecer un excelente servicio en un entorno de alta demanda.",
+      "startDate": "Agosto - 2024",
+      "endDate": "Actualmente",
+      "summary": "A cargo del desarrollo FrontEnd y participación en el Backend para una aplicación SSO, en el cual se buscaba tener un único flujo de inicio de sesión para todas las aplicaciones productivas.",
       "highlights": []
     },
     {
-      "name": "Cow Gourmet",
-      "position": "",
+      "name": "Amaris Consulting - SMU",
+      "position": "Desarrollador Frontend",
+      "address": "Santiago, Chile",
       "url": "",
-      "startDate": "2016",
-      "endDate": "2017",
-      "summary": "En Cow Gourmet, participé en la elaboración de cortes básicos y gourmet, así como en técnicas de desposte. A través de una atención al cliente de calidad.",
-      "highlights": [""]
+      "startDate": "Marzo - 2024",
+      "endDate": "Septiembre - 2024",
+      "summary": "Desarrollo de una aplicación web para una de las filiales de SMU(Unimarc), con la finalidad de permitir un sistema de compra de giftcards. Las tecnologías utilizadas por el lado del Front-End son React, Next JS, Tank Stack, Contentful, Axios.",
+      "highlights": []
     },
     {
-      "name": "Ganadera Don Matías",
-      "position": "",
+      "name": "Amaris Consulting - Cencosud",
+      "position": "Desarrollador Frontend",
+      "address": "Santiago, Chile",
       "url": "",
-      "startDate": "2018",
-      "endDate": "2021",
-      "summary": "En Ganadera Don Matías, me especialicé en todos los aspectos de la carnicería, brindando una buena atención al cliente.",
-      "highlights": ["Started the company"]
+      "startDate": "Mayo - 2022",
+      "endDate": "Febrero - 2024",
+      "summary": "Desarrollo de una aplicación web llamada Acuerdos Comerciales, con la finalidad de permitir consultar y crear las negociaciones correspondientes con los distintos proveedores de la plataforma. Las tecnologías utilizadas por el lado del Front-End son React, React Router, Redux, Material UI, React Hook Form, Axios y Vite.",
+      "highlights": []
     },
     {
-      "name": "Cecinas San Jorge",
-      "position": "",
+      "name": "Freelancer",
+      "position": "Desarrollador Frontend",
+      "address": "",
       "url": "",
-      "startDate": "2021",
-      "endDate": "2023",
-      "summary": "En Cecinas San Jorge, desempeñé el rol de operario de producción, contribuyendo activamente al proceso de fabricación.",
-      "highlights": [""]
+      "startDate": "Enero - 2022",
+      "endDate": "Mayo - 2022",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Tectronix SpA",
+      "position": "Desarrollador Frontend",
+      "address": "Viña del Mar, Chile",
+      "url": "",
+      "startDate": "Agosto - 2021",
+      "endDate": "Enero - 2022",
+      "summary": "Desarrollo de una aplicación web para la gestión de certificados de riesgo para empresas de construcción, donde se registran los usuarios y las empresas y se cargan los certificados. Implementación de nuevos requerimientos y corrección de errores en otras aplicaciones web en producción. Las tecnologías utilizadas fueron Angular, Highcharts y DevExtreme.",
+      "highlights": []
+    },
+    {
+      "name": "ConfortSur",
+      "position": "Desarrollador Frontend",
+      "address": "CABA Buenos Aires, Argentina",
+      "url": "",
+      "startDate": "Enero - 2020",
+      "endDate": "Julio - 2021",
+      "summary": "Mi posición aquí era proporcionar el enfoque correcto para una tienda minorista. Fui de apoyo para el desarrollo de una aplicación financiera en la que se enfocaba en establecer un sistema de puntuación y recompensas basado en las compras de los clientes. Las tecnologías usadas mientras estuve en este puesto fueron: React.js, React Router, Redux y Javascript.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "U.E Nuestro Libertador",
+      "institution": "4Geeks Academy Chile",
       "url": "",
-      "area": "Enseñanza media completa",
+      "area": "Bootcamp",
       "studyType": "Bachelor",
-      "startDate": "2008",
-      "endDate": "2013",
+      "startDate": "Octubre - 2019",
+      "endDate": "Diciembre - 2019",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Tecnológica del Centro (UNITEC)",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor",
+      "startDate": "2013",
+      "endDate": "2018",
       "score": "",
       "courses": []
     }
@@ -96,6 +130,11 @@
     },
     {
       "name": "Comunicador",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Trabajo en equipo",
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     }
