@@ -23,7 +23,7 @@ const { title } = Astro.props;
     <div class='dark:bg-dark'>
       <div class='flex justify-end pt-8 pr-8'>
         <button>
-          <SunIcon data-theme='light' />
+          <SunIcon class='hidden' data-theme='light' />
           <MoonFilledIcon class='hidden text-white' data-theme='dark' />
         </button>
       </div>
@@ -96,6 +96,16 @@ const { title } = Astro.props;
   if (typeof window !== 'undefined') {
     const button = document.querySelector('button');
     const icons = document.querySelectorAll('[data-theme]');
+
+    if (
+      window.matchMedia &&
+      window.matchMedia('(prefers-color-scheme: dark)').matches
+    ) {
+      document.body.classList.add('dark');
+      document.querySelector('[data-theme="dark"]').classList.remove('hidden');
+    } else {
+      document.querySelector('[data-theme="light"]').classList.remove('hidden');
+    }
 
     button.addEventListener('click', () => {
       icons.forEach((icon) => {
