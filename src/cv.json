@@ -57,6 +57,16 @@
       "highlights": []
     },
     {
+      "name": "",
+      "position": "",
+      "address": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Desarrollo de una aplicación web llamada Unify, con la finalidad de permitir a distintos comercios bajo Cencosud gestionar y darle seguimiento a sus campañas y promociones. Las tecnologías utilizadas por el lado del Front-End son React, React Router, TypeScript, Redux, Formik, GraphQL, Apollo Client y Vite.",
+      "highlights": []
+    },
+    {
       "name": "Freelancer",
       "position": "Desarrollador Frontend",
       "address": "",

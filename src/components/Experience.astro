@@ -23,9 +23,11 @@ const { work } = cv;
                 <p class='font-bold text-[#000] dark:text-light'>{position}</p>
               ) : null}
             </div>
-            <p>
-              {startDate} / {endDate}
-            </p>
+            {startDate && endDate ? (
+              <p>
+                {startDate} / {endDate}
+              </p>
+            ) : null}
           </div>
           <p>{summary}</p>
         </li>
