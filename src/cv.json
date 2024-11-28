@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Victor Alfonzo Colina Leon",
-    "label": "Soy desarrollador frontend con experiencia en la creación de aplicaciones web funcionales y escalables. He trabajado en proyectos de retail y gestión, siempre con enfoque en trabajo en equipo y objetivos claros. Me destaco por ser proactivo, responsable y en constante aprendizaje para mejorar mis habilidades.",
+    "label": "Soy desarrollador FullStack con experiencia en la creación de aplicaciones web funcionales y escalables. He trabajado en proyectos de seguros de salud colectivos, retail y gestión, siempre con enfoque en trabajo en equipo y objetivos claros. Soy una persona proactiva, responsable y en busca de nuevos desafíos.",
     "image": "/me.webp",
     "email": "victorcolina2202@gmail.com",
     "phone": "+56 9 3649 4019",
@@ -33,6 +33,16 @@
       "url": "",
       "startDate": "Agosto - 2024",
       "endDate": "Actualmente",
+      "summary": "Parte del equipo de desarrollo de una aplicación web de cotizaciones de seguros colectivos, con la finalidad de permitir a los clientes y ejecutivos una interfaz eficiente y fácil de usar.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "",
+      "address": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "A cargo del desarrollo FrontEnd y participación en el Backend para una aplicación SSO, en el cual se buscaba tener un único flujo de inicio de sesión para todas las aplicaciones productivas.",
       "highlights": []
     },
