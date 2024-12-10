@@ -53,7 +53,7 @@
       "url": "",
       "startDate": "Marzo - 2024",
       "endDate": "Septiembre - 2024",
-      "summary": "Desarrollo de una aplicación web para una de las filiales de SMU(Unimarc), con la finalidad de permitir un sistema de compra de giftcards. Las tecnologías utilizadas por el lado del Front-End son React, Next JS, Tank Stack, Contentful, Axios.",
+      "summary": "Desarrollo de una aplicación web para una de las filiales de SMU(Unimarc), con la finalidad de permitir un sistema de compra de giftcards.",
       "highlights": []
     },
     {
@@ -63,7 +63,7 @@
       "url": "",
       "startDate": "Mayo - 2022",
       "endDate": "Febrero - 2024",
-      "summary": "Desarrollo de una aplicación web llamada Acuerdos Comerciales, con la finalidad de permitir consultar y crear las negociaciones correspondientes con los distintos proveedores de la plataforma. Las tecnologías utilizadas por el lado del Front-End son React, React Router, Redux, Material UI, React Hook Form, Axios y Vite.",
+      "summary": "Desarrollo de una aplicación web llamada Acuerdos Comerciales, con la finalidad de permitir consultar y crear las negociaciones correspondientes con los distintos proveedores de la plataforma.",
       "highlights": []
     },
     {
@@ -73,7 +73,7 @@
       "url": "",
       "startDate": "",
       "endDate": "",
-      "summary": "Desarrollo de una aplicación web llamada Unify, con la finalidad de permitir a distintos comercios bajo Cencosud gestionar y darle seguimiento a sus campañas y promociones. Las tecnologías utilizadas por el lado del Front-End son React, React Router, TypeScript, Redux, Formik, GraphQL, Apollo Client y Vite.",
+      "summary": "Desarrollo de una aplicación web llamada Unify, con la finalidad de permitir a distintos comercios bajo Cencosud gestionar y darle seguimiento a sus campañas y promociones.",
       "highlights": []
     },
     {
@@ -93,7 +93,7 @@
       "url": "",
       "startDate": "Agosto - 2021",
       "endDate": "Enero - 2022",
-      "summary": "Desarrollo de una aplicación web para la gestión de certificados de riesgo para empresas de construcción, donde se registran los usuarios y las empresas y se cargan los certificados. Implementación de nuevos requerimientos y corrección de errores en otras aplicaciones web en producción. Las tecnologías utilizadas fueron Angular, Highcharts y DevExtreme.",
+      "summary": "Desarrollo de una aplicación web para la gestión de certificados de riesgo para empresas de construcción, donde se registran los usuarios y las empresas y se cargan los certificados. Implementación de nuevos requerimientos y corrección de errores en otras aplicaciones web en producción.",
       "highlights": []
     },
     {
@@ -103,7 +103,7 @@
       "url": "",
       "startDate": "Enero - 2020",
       "endDate": "Julio - 2021",
-      "summary": "Mi posición aquí era proporcionar el enfoque correcto para una tienda minorista. Fui de apoyo para el desarrollo de una aplicación financiera en la que se enfocaba en establecer un sistema de puntuación y recompensas basado en las compras de los clientes. Las tecnologías usadas mientras estuve en este puesto fueron: React.js, React Router, Redux y Javascript.",
+      "summary": "Mi posición aquí era proporcionar el enfoque correcto para una tienda minorista. Fui de apoyo para el desarrollo de una aplicación financiera en la que se enfocaba en establecer un sistema de puntuación y recompensas basado en las compras de los clientes.",
       "highlights": []
     }
   ],
