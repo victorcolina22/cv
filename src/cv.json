@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Victor Alfonzo Colina Leon",
-    "label": "Soy desarrollador FullStack con experiencia en la creación de aplicaciones web funcionales y escalables. He trabajado en proyectos de seguros de salud colectivos, retail y gestión, siempre con enfoque en trabajo en equipo y objetivos claros. Soy una persona proactiva, responsable y en busca de nuevos desafíos.",
+    "label": "Soy desarrollador FullStack con experiencia en la creación de aplicaciones web funcionales y escalables. He trabajado en proyectos de seguros de salud colectivos, retail y gestión, siempre con enfoque en trabajo en equipo y objetivos claros. Soy una persona proactiva y responsable.",
     "image": "/me.webp",
     "email": "victorcolina2202@gmail.com",
     "phone": "+56 9 3649 4019",
@@ -27,12 +27,22 @@
   },
   "work": [
     {
+      "name": "Vida Cámara",
+      "position": "Ingeniero de Software",
+      "address": "Santiago, Chile",
+      "url": "",
+      "startDate": "Septiembre - 2025",
+      "endDate": "Actualmente",
+      "summary": "Desarrollo de software para la gestión de cotizaciones de seguros colectivos, con la finalidad de permitir a los clientes y ejecutivos una interfaz eficiente y fácil de usar.",
+      "highlights": []
+    },
+    {
       "name": "Amaris Consulting - Vida Cámara",
       "position": "Desarrollador Full Stack",
       "address": "Santiago, Chile",
       "url": "",
       "startDate": "Agosto - 2024",
-      "endDate": "Actualmente",
+      "endDate": "Septiembre - 2025",
       "summary": "Parte del equipo de desarrollo de una aplicación web de cotizaciones de seguros colectivos, con la finalidad de permitir a los clientes y ejecutivos una interfaz eficiente y fácil de usar.",
       "highlights": []
     },
